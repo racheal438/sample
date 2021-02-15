@@ -1,0 +1,42 @@
+body{
+	background-color:GrayText;
+}
+
+table{
+	width: 600px;
+	border-top: 1px solid yellow;
+	/* border-bottom: 2px solid white; */
+	margin-top: 20px;
+}
+
+th{
+	border-bottom: 2px solid white;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.table1{
+	background-color: #ddd;
+}
+
+.table2{
+	background-color: white;
+}
+
+.table3{
+	background-color: white;
+	color: gold;
+}
+
+.table4{
+	background-color: silver;
+	border: 2px solid white;
+}
+
+.table4 th {
+	border: 2px solid white;
+}
+
+.table4 td {
+	border: 2px solid white;
+}
